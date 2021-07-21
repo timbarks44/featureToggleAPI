@@ -1,0 +1,8 @@
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\bin\Debug\netstandard2.0\FeatureToggleServiceCore.deps.json
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\bin\Debug\netstandard2.0\FeatureToggleServiceCore.dll
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\bin\Debug\netstandard2.0\FeatureToggleServiceCore.pdb
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\obj\Debug\netstandard2.0\FeatureToggleServiceCore.csprojAssemblyReference.cache
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\obj\Debug\netstandard2.0\FeatureToggleServiceCore.AssemblyInfoInputs.cache
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\obj\Debug\netstandard2.0\FeatureToggleServiceCore.AssemblyInfo.cs
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\obj\Debug\netstandard2.0\FeatureToggleServiceCore.dll
+C:\GoCo\POC\FeatureToggleService\FeatureToggleService\FeatureToggleServiceCore\obj\Debug\netstandard2.0\FeatureToggleServiceCore.pdb

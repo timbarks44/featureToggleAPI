@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAtrLHV6RN4SoWvO3HAQL1kGFglvd61fv+0/IQvg0HM+LiOicFpxmxzfac6QMBNZ5py60WP8FhjinBs9W9a8hw==",
+  "success": true,
+  "projectFilePath": "C:\\GoCo\\POC\\FeatureToggleService\\FeatureToggleService\\FeatureToggleServiceInfrastructure\\FeatureToggleServiceInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TimBarker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TimBarker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
